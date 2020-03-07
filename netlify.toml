@@ -1,5 +1,5 @@
 [build]
-  command = "jekyll build && cp -r _site/** docs/"
+  command = "jekyll build && cp -r _site/** docs"
   publish = "_site"
 
 [build.environment]
