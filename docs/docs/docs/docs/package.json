@@ -1,0 +1,25 @@
+{
+  "name": "design-guidebook",
+  "version": "1.0.0",
+  "description": "Mindreeper2420 design guidebook",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindreeper2420/design-guidebook.git"
+  },
+  "author": "Adam J. Jolicoeur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mindreeper2420/design-guidebook/issues"
+  },
+  "homepage": "https://github.com/mindreeper2420/design-guidebook#readme",
+  "dependencies": {
+    "@cfpb/netlify-cms": "^1.19.0"
+  }
+}
